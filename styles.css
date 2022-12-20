@@ -1,2 +1,15 @@
-
+.holder{
+    border: 2px solid red;
+    width:400px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+    }
+    .item{
+    border: 2px solid rgb(194, 206, 22);
+    height: 200px;
+    width: 50px;
+    }
 /* Your CSS Code here. */
